@@ -4,7 +4,7 @@ Proyect-Gamersz
 ================
 Pagina web ----> http://proyect-gamersz.com/index.php/
 ================================================
-" proyect-gamersz.com pagina web en costrucion"
+" proyect-gamersz.com pagina web en construcción"
 ================================================
 
 Que esperas para montar tu propio servidor WORLD OF WARCRAFT en cualquier version por un buen precio, presto servicio de ventas VPS + Servidor world of warcraft online 100% confiable se ofrece Y ademas 100% en español
