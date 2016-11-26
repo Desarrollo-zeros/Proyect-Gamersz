@@ -1586,7 +1586,6 @@ void AddBattlegroundScripts()
 
 #ifdef SCRIPTS
 /* This is where custom scripts' loading functions should be declared. */
-void AddSC_Duel_Reset();
 void AddSC_DuelReset();
 #endif
 
@@ -1594,7 +1593,6 @@ void AddCustomScripts()
 {
 #ifdef SCRIPTS
     /* This is where custom scripts should be added. */
-	AddSC_Duel_Reset();
 	AddSC_DuelReset();
 #endif
 }
