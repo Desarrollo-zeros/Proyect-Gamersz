@@ -56,7 +56,7 @@ void AddSC_debug_commandscript();
 void AddSC_disable_commandscript();
 void AddSC_event_commandscript();
 void AddSC_gm_commandscript();
-void AddSC_lfg_commandscript();
+void AddSC_go_commandscript();
 void AddSC_gobject_commandscript();
 void AddSC_guild_commandscript();
 void AddSC_honor_commandscript();
